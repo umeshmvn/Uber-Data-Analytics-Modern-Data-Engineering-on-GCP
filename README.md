@@ -5,8 +5,8 @@
 Dive into the world of data analytics with this project that harnesses the power of Uber trip data. We leverage cutting-edge technologies to process and analyze vast datasets, providing actionable insights through a seamless and efficient data pipeline.
 
 ## Architecture at a Glance 🏗️
-![Project Architecture](![architecture](https://github.com/user-attachments/assets/5e0657de-4bcc-4482-af81-43e78114e749)
-)
+![Project Architecture](https://github.com/umeshmvn/Uber-Data-Analytics-Modern-Data-Engineering-on-GCP/blob/main/Uber%20Data%20Engineering%20Project/architecture.jpg)
+
 
 ## Technologies in Play 🛠️
 
@@ -20,6 +20,9 @@ Dive into the world of data analytics with this project that harnesses the power
 
 **Modern Data Pipeline Tool:**
 - **Mage.ai:** Streamline data processing with this open-source ETL tool.
+
+## Data Model 🗺️
+![Data Model](https://github.com/umeshmvn/Uber-Data-Analytics-Modern-Data-Engineering-on-GCP/blob/main/Uber%20Data%20Engineering%20Project/Data_Model.png)
 
 ## Dataset Overview 📊
 More info about dataset can be found here:
